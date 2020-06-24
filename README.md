@@ -6,5 +6,5 @@ The current goal of this project is to add as many pokemon and moves to *PokeBat
 This is a fan project! Have fun with it. For guides on how to navigate and contribute to this project, please see:
 [Google Drive folder!](https://drive.google.com/drive/folders/1tNP2qi1LSYRZazLoQWXYgSRkOEif8Cl_?usp=sharing)
 
-### Version History
+### Build History
 [PokeBattleHD - 1.0](https://github.com/nalatoli/PokeBattleHD/tree/v1.0)
