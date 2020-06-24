@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 693eb57ec8cd1e94ab4127200a950ae8, type: 3}
+  m_Name: Steel
+  m_EditorClassIdentifier: 
+  spritesheet:
+  - {fileID: -8236111372781299411, guid: fd74cce3370f3674ebc95390951fb011, type: 3}
+  textColorTheme:
+    topLeft: {r: 0.8113208, g: 0.8113208, b: 0.8113208, a: 1}
+    topRight: {r: 0.6226415, g: 0.6226415, b: 0.6226415, a: 1}
+    bottomLeft: {r: 0.8679245, g: 0.8679245, b: 0.8679245, a: 1}
+    bottomRight: {r: 0.735849, g: 0.735849, b: 0.735849, a: 1}
+  borderColor: {r: 0.31132078, g: 0.31132078, b: 0.31132078, a: 1}
+  strongAgainst:
+  - {fileID: 11400000, guid: 8cfbfcfab4002a24c8871abae8b3ff3a, type: 2}
+  - {fileID: 11400000, guid: d2deb32e29cdb4646a3fb411382a5172, type: 2}
+  - {fileID: 11400000, guid: 624c4f79831fbba438804981ab13d8c0, type: 2}
+  weakAgainst:
+  - {fileID: 11400000, guid: d2bd6b60d36fe884bb510b0f4a2a4abd, type: 2}
+  - {fileID: 11400000, guid: fabeb9eb5bf68154897edb830f180064, type: 2}
+  - {fileID: 11400000, guid: 6eeddc006a6dded48bfbe659b7c9866b, type: 2}
+  - {fileID: 11400000}
+  noEffectAgainst: []

@@ -1,0 +1,628 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-9161646027868189335
+MonoBehaviour:
+  m_ObjectHideFlags: 3
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3f1e31eb8f362b5409580b09ee4a667b, type: 3}
+  m_Name: GrayScale
+  m_EditorClassIdentifier: 
+  active: 1
+  m_AdvancedMode: 0
+  intensity:
+    m_OverrideState: 0
+    m_Value: 0
+    min: 0
+    max: 1
+  cutoffAlpha:
+    m_OverrideState: 0
+    m_Value: 0
+    min: 0
+    max: 1
+  texture:
+    m_OverrideState: 0
+    m_Value: {fileID: 0}
+  darken:
+    m_OverrideState: 0
+    m_Value: 0
+  tiling:
+    m_OverrideState: 0
+    m_Value: {x: 1, y: 1}
+  offset:
+    m_OverrideState: 0
+    m_Value: {x: 0, y: 0}
+--- !u!114 &-7969007970608380367
+MonoBehaviour:
+  m_ObjectHideFlags: 3
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3f1e31eb8f362b5409580b09ee4a667b, type: 3}
+  m_Name: GrayScale
+  m_EditorClassIdentifier: 
+  active: 0
+  m_AdvancedMode: 0
+  intensity:
+    m_OverrideState: 0
+    m_Value: 0
+    min: 0
+    max: 1
+  cutoffAlpha:
+    m_OverrideState: 0
+    m_Value: 0
+    min: 0
+    max: 1
+  texture:
+    m_OverrideState: 0
+    m_Value: {fileID: 0}
+  darken:
+    m_OverrideState: 0
+    m_Value: 0
+  tiling:
+    m_OverrideState: 0
+    m_Value: {x: 1, y: 1}
+  offset:
+    m_OverrideState: 0
+    m_Value: {x: 0, y: 0}
+--- !u!114 &-7938445829801289001
+MonoBehaviour:
+  m_ObjectHideFlags: 3
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3f1e31eb8f362b5409580b09ee4a667b, type: 3}
+  m_Name: GrayScale
+  m_EditorClassIdentifier: 
+  active: 0
+  m_AdvancedMode: 0
+  intensity:
+    m_OverrideState: 0
+    m_Value: 0
+    min: 0
+    max: 1
+  cutoffAlpha:
+    m_OverrideState: 0
+    m_Value: 0
+    min: 0
+    max: 1
+  texture:
+    m_OverrideState: 0
+    m_Value: {fileID: 0}
+  darken:
+    m_OverrideState: 0
+    m_Value: 0
+  tiling:
+    m_OverrideState: 0
+    m_Value: {x: 1, y: 1}
+  offset:
+    m_OverrideState: 0
+    m_Value: {x: 0, y: 0}
+--- !u!114 &-5457802916240141107
+MonoBehaviour:
+  m_ObjectHideFlags: 3
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3f1e31eb8f362b5409580b09ee4a667b, type: 3}
+  m_Name: GrayScale
+  m_EditorClassIdentifier: 
+  active: 1
+  m_AdvancedMode: 0
+  intensity:
+    m_OverrideState: 0
+    m_Value: 0
+    min: 0
+    max: 1
+  cutoffAlpha:
+    m_OverrideState: 0
+    m_Value: 0
+    min: 0
+    max: 1
+  texture:
+    m_OverrideState: 0
+    m_Value: {fileID: 0}
+  darken:
+    m_OverrideState: 0
+    m_Value: 0
+  tiling:
+    m_OverrideState: 0
+    m_Value: {x: 1, y: 1}
+  offset:
+    m_OverrideState: 0
+    m_Value: {x: 0, y: 0}
+--- !u!114 &-5119579065539359836
+MonoBehaviour:
+  m_ObjectHideFlags: 3
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3f1e31eb8f362b5409580b09ee4a667b, type: 3}
+  m_Name: GrayScale
+  m_EditorClassIdentifier: 
+  active: 0
+  m_AdvancedMode: 0
+  intensity:
+    m_OverrideState: 0
+    m_Value: 0
+    min: 0
+    max: 1
+  cutoffAlpha:
+    m_OverrideState: 0
+    m_Value: 0
+    min: 0
+    max: 1
+  texture:
+    m_OverrideState: 0
+    m_Value: {fileID: 0}
+  darken:
+    m_OverrideState: 0
+    m_Value: 0
+  tiling:
+    m_OverrideState: 0
+    m_Value: {x: 1, y: 1}
+  offset:
+    m_OverrideState: 0
+    m_Value: {x: 0, y: 0}
+--- !u!114 &-3082063040896972706
+MonoBehaviour:
+  m_ObjectHideFlags: 3
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3f1e31eb8f362b5409580b09ee4a667b, type: 3}
+  m_Name: GrayScale
+  m_EditorClassIdentifier: 
+  active: 1
+  m_AdvancedMode: 0
+  intensity:
+    m_OverrideState: 0
+    m_Value: 0
+    min: 0
+    max: 1
+  cutoffAlpha:
+    m_OverrideState: 0
+    m_Value: 0
+    min: 0
+    max: 1
+  texture:
+    m_OverrideState: 0
+    m_Value: {fileID: 0}
+  darken:
+    m_OverrideState: 0
+    m_Value: 0
+  tiling:
+    m_OverrideState: 0
+    m_Value: {x: 1, y: 1}
+  offset:
+    m_OverrideState: 0
+    m_Value: {x: 0, y: 0}
+--- !u!114 &-1883714636233585771
+MonoBehaviour:
+  m_ObjectHideFlags: 3
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3f1e31eb8f362b5409580b09ee4a667b, type: 3}
+  m_Name: GrayScale
+  m_EditorClassIdentifier: 
+  active: 1
+  m_AdvancedMode: 0
+  intensity:
+    m_OverrideState: 0
+    m_Value: 0
+    min: 0
+    max: 1
+  cutoffAlpha:
+    m_OverrideState: 0
+    m_Value: 0
+    min: 0
+    max: 1
+  texture:
+    m_OverrideState: 0
+    m_Value: {fileID: 0}
+  darken:
+    m_OverrideState: 0
+    m_Value: 0
+  tiling:
+    m_OverrideState: 0
+    m_Value: {x: 1, y: 1}
+  offset:
+    m_OverrideState: 0
+    m_Value: {x: 0, y: 0}
+--- !u!114 &-200499062189195917
+MonoBehaviour:
+  m_ObjectHideFlags: 3
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3f1e31eb8f362b5409580b09ee4a667b, type: 3}
+  m_Name: GrayScale
+  m_EditorClassIdentifier: 
+  active: 1
+  m_AdvancedMode: 0
+  intensity:
+    m_OverrideState: 0
+    m_Value: 0
+    min: 0
+    max: 1
+  cutoffAlpha:
+    m_OverrideState: 0
+    m_Value: 0
+    min: 0
+    max: 1
+  texture:
+    m_OverrideState: 0
+    m_Value: {fileID: 0}
+  darken:
+    m_OverrideState: 0
+    m_Value: 0
+  tiling:
+    m_OverrideState: 0
+    m_Value: {x: 1, y: 1}
+  offset:
+    m_OverrideState: 0
+    m_Value: {x: 0, y: 0}
+--- !u!114 &-4653415632726943
+MonoBehaviour:
+  m_ObjectHideFlags: 3
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3f1e31eb8f362b5409580b09ee4a667b, type: 3}
+  m_Name: GrayScale
+  m_EditorClassIdentifier: 
+  active: 0
+  m_AdvancedMode: 0
+  intensity:
+    m_OverrideState: 0
+    m_Value: 0
+    min: 0
+    max: 1
+  cutoffAlpha:
+    m_OverrideState: 0
+    m_Value: 0
+    min: 0
+    max: 1
+  texture:
+    m_OverrideState: 0
+    m_Value: {fileID: 0}
+  darken:
+    m_OverrideState: 0
+    m_Value: 0
+  tiling:
+    m_OverrideState: 0
+    m_Value: {x: 1, y: 1}
+  offset:
+    m_OverrideState: 0
+    m_Value: {x: 0, y: 0}
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d7fd9488000d3734a9e00ee676215985, type: 3}
+  m_Name: Sky and Fog Volume Profile
+  m_EditorClassIdentifier: 
+  components:
+  - {fileID: 2022023014779158997}
+--- !u!114 &605383364523367228
+MonoBehaviour:
+  m_ObjectHideFlags: 3
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3f1e31eb8f362b5409580b09ee4a667b, type: 3}
+  m_Name: GrayScale
+  m_EditorClassIdentifier: 
+  active: 1
+  m_AdvancedMode: 0
+  intensity:
+    m_OverrideState: 0
+    m_Value: 0
+    min: 0
+    max: 1
+  cutoffAlpha:
+    m_OverrideState: 0
+    m_Value: 0
+    min: 0
+    max: 1
+  texture:
+    m_OverrideState: 0
+    m_Value: {fileID: 0}
+  darken:
+    m_OverrideState: 0
+    m_Value: 0
+  tiling:
+    m_OverrideState: 0
+    m_Value: {x: 1, y: 1}
+  offset:
+    m_OverrideState: 0
+    m_Value: {x: 0, y: 0}
+--- !u!114 &1308046510347669828
+MonoBehaviour:
+  m_ObjectHideFlags: 3
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3f1e31eb8f362b5409580b09ee4a667b, type: 3}
+  m_Name: GrayScale
+  m_EditorClassIdentifier: 
+  active: 1
+  m_AdvancedMode: 0
+  intensity:
+    m_OverrideState: 0
+    m_Value: 0
+    min: 0
+    max: 1
+  cutoffAlpha:
+    m_OverrideState: 0
+    m_Value: 0
+    min: 0
+    max: 1
+  texture:
+    m_OverrideState: 0
+    m_Value: {fileID: 0}
+  darken:
+    m_OverrideState: 0
+    m_Value: 0
+  tiling:
+    m_OverrideState: 0
+    m_Value: {x: 1, y: 1}
+  offset:
+    m_OverrideState: 0
+    m_Value: {x: 0, y: 0}
+--- !u!114 &1408975098242546654
+MonoBehaviour:
+  m_ObjectHideFlags: 3
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3f1e31eb8f362b5409580b09ee4a667b, type: 3}
+  m_Name: GrayScale
+  m_EditorClassIdentifier: 
+  active: 1
+  m_AdvancedMode: 0
+  intensity:
+    m_OverrideState: 1
+    m_Value: 0.126
+    min: 0
+    max: 1
+  cutoffAlpha:
+    m_OverrideState: 1
+    m_Value: 0
+    min: 0
+    max: 1
+  texture:
+    m_OverrideState: 1
+    m_Value: {fileID: 2800000, guid: c7cf531ee2dbf614cb6db939fbe48132, type: 3}
+  darken:
+    m_OverrideState: 1
+    m_Value: 0
+  tiling:
+    m_OverrideState: 0
+    m_Value: {x: 1, y: 1}
+  offset:
+    m_OverrideState: 0
+    m_Value: {x: 0, y: 0}
+--- !u!114 &2022023014779158997
+MonoBehaviour:
+  m_ObjectHideFlags: 3
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3f1e31eb8f362b5409580b09ee4a667b, type: 3}
+  m_Name: Transition
+  m_EditorClassIdentifier: 
+  active: 1
+  m_AdvancedMode: 0
+  intensity:
+    m_OverrideState: 1
+    m_Value: 0
+    min: 0
+    max: 1
+  cutoffAlpha:
+    m_OverrideState: 1
+    m_Value: 0
+    min: 0
+    max: 1
+  texture:
+    m_OverrideState: 1
+    m_Value: {fileID: 2800000, guid: c7cf531ee2dbf614cb6db939fbe48132, type: 3}
+  darken:
+    m_OverrideState: 1
+    m_Value: 1
+  tiling:
+    m_OverrideState: 0
+    m_Value: {x: 1, y: 1}
+  offset:
+    m_OverrideState: 0
+    m_Value: {x: 0, y: 0}
+--- !u!114 &3469099974748268290
+MonoBehaviour:
+  m_ObjectHideFlags: 3
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3f1e31eb8f362b5409580b09ee4a667b, type: 3}
+  m_Name: GrayScale
+  m_EditorClassIdentifier: 
+  active: 0
+  m_AdvancedMode: 0
+  intensity:
+    m_OverrideState: 0
+    m_Value: 0
+    min: 0
+    max: 1
+  cutoffAlpha:
+    m_OverrideState: 0
+    m_Value: 0
+    min: 0
+    max: 1
+  texture:
+    m_OverrideState: 0
+    m_Value: {fileID: 0}
+  darken:
+    m_OverrideState: 0
+    m_Value: 0
+  tiling:
+    m_OverrideState: 0
+    m_Value: {x: 1, y: 1}
+  offset:
+    m_OverrideState: 0
+    m_Value: {x: 0, y: 0}
+--- !u!114 &4964139653718520760
+MonoBehaviour:
+  m_ObjectHideFlags: 3
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3f1e31eb8f362b5409580b09ee4a667b, type: 3}
+  m_Name: GrayScale
+  m_EditorClassIdentifier: 
+  active: 0
+  m_AdvancedMode: 0
+  intensity:
+    m_OverrideState: 0
+    m_Value: 0
+    min: 0
+    max: 1
+  cutoffAlpha:
+    m_OverrideState: 0
+    m_Value: 0
+    min: 0
+    max: 1
+  texture:
+    m_OverrideState: 0
+    m_Value: {fileID: 0}
+  darken:
+    m_OverrideState: 0
+    m_Value: 0
+  tiling:
+    m_OverrideState: 0
+    m_Value: {x: 1, y: 1}
+  offset:
+    m_OverrideState: 0
+    m_Value: {x: 0, y: 0}
+--- !u!114 &5059172536683354882
+MonoBehaviour:
+  m_ObjectHideFlags: 3
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3f1e31eb8f362b5409580b09ee4a667b, type: 3}
+  m_Name: GrayScale
+  m_EditorClassIdentifier: 
+  active: 1
+  m_AdvancedMode: 0
+  intensity:
+    m_OverrideState: 0
+    m_Value: 0
+    min: 0
+    max: 1
+  cutoffAlpha:
+    m_OverrideState: 0
+    m_Value: 0
+    min: 0
+    max: 1
+  texture:
+    m_OverrideState: 0
+    m_Value: {fileID: 0}
+  darken:
+    m_OverrideState: 0
+    m_Value: 0
+  tiling:
+    m_OverrideState: 0
+    m_Value: {x: 1, y: 1}
+  offset:
+    m_OverrideState: 0
+    m_Value: {x: 0, y: 0}
+--- !u!114 &8169148200940301846
+MonoBehaviour:
+  m_ObjectHideFlags: 3
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3f1e31eb8f362b5409580b09ee4a667b, type: 3}
+  m_Name: GrayScale
+  m_EditorClassIdentifier: 
+  active: 1
+  m_AdvancedMode: 0
+  intensity:
+    m_OverrideState: 0
+    m_Value: 0
+    min: 0
+    max: 1
+  cutoffAlpha:
+    m_OverrideState: 0
+    m_Value: 0
+    min: 0
+    max: 1
+  texture:
+    m_OverrideState: 0
+    m_Value: {fileID: 0}
+  darken:
+    m_OverrideState: 0
+    m_Value: 0
+  tiling:
+    m_OverrideState: 0
+    m_Value: {x: 1, y: 1}
+  offset:
+    m_OverrideState: 0
+    m_Value: {x: 0, y: 0}

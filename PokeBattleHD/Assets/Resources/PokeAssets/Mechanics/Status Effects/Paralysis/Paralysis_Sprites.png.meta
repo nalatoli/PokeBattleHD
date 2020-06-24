@@ -1,0 +1,2804 @@
+fileFormatVersion: 2
+guid: 301b1e18de45eb845b657bead2a0de7f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8933774728562461183
+    second: Paralysis_Sprites_0
+  - first:
+      213: 3262082669767665613
+    second: Paralysis_Sprites_1
+  - first:
+      213: 3166242870405166341
+    second: Paralysis_Sprites_2
+  - first:
+      213: -658434174495593356
+    second: Paralysis_Sprites_3
+  - first:
+      213: -8001497521882387125
+    second: Paralysis_Sprites_4
+  - first:
+      213: 465582228302234665
+    second: Paralysis_Sprites_5
+  - first:
+      213: 822607887715911659
+    second: Paralysis_Sprites_6
+  - first:
+      213: -8054305167779791596
+    second: Paralysis_Sprites_7
+  - first:
+      213: -4640360426089863444
+    second: Paralysis_Sprites_8
+  - first:
+      213: 1480793483252133658
+    second: Paralysis_Sprites_9
+  - first:
+      213: 5894839856718497655
+    second: Paralysis_Sprites_10
+  - first:
+      213: -193875695159855114
+    second: Paralysis_Sprites_11
+  - first:
+      213: -1481644275630483650
+    second: Paralysis_Sprites_12
+  - first:
+      213: -568590206383439474
+    second: Paralysis_Sprites_13
+  - first:
+      213: -3332940246507738473
+    second: Paralysis_Sprites_14
+  - first:
+      213: 7752180653761478425
+    second: Paralysis_Sprites_15
+  - first:
+      213: -1353350246879394014
+    second: Paralysis_Sprites_16
+  - first:
+      213: 5808930934652668658
+    second: Paralysis_Sprites_17
+  - first:
+      213: -8415351094131518135
+    second: Paralysis_Sprites_18
+  - first:
+      213: -470741144605850425
+    second: Paralysis_Sprites_19
+  - first:
+      213: -3538740163045044593
+    second: Paralysis_Sprites_20
+  - first:
+      213: 1624153805945964868
+    second: Paralysis_Sprites_21
+  - first:
+      213: -377024236076871169
+    second: Paralysis_Sprites_22
+  - first:
+      213: 3806369807894123330
+    second: Paralysis_Sprites_23
+  - first:
+      213: 1164003762808709320
+    second: Paralysis_Sprites_24
+  - first:
+      213: -6438458824964154669
+    second: Paralysis_Sprites_25
+  - first:
+      213: 779988848635747768
+    second: Paralysis_Sprites_26
+  - first:
+      213: 4381149150123220377
+    second: Paralysis_Sprites_27
+  - first:
+      213: -1166811752681452736
+    second: Paralysis_Sprites_28
+  - first:
+      213: -7220987929828418085
+    second: Paralysis_Sprites_29
+  - first:
+      213: 8712909288612749665
+    second: Paralysis_Sprites_30
+  - first:
+      213: -5332838628560929276
+    second: Paralysis_Sprites_31
+  - first:
+      213: -8538885300767346058
+    second: Paralysis_Sprites_32
+  - first:
+      213: 2084380033895630525
+    second: Paralysis_Sprites_33
+  - first:
+      213: 18441130389414822
+    second: Paralysis_Sprites_34
+  - first:
+      213: 2102712809351558112
+    second: Paralysis_Sprites_35
+  - first:
+      213: -6698424349635808033
+    second: Paralysis_Sprites_36
+  - first:
+      213: -6756096218527819699
+    second: Paralysis_Sprites_37
+  - first:
+      213: -1489853104926614576
+    second: Paralysis_Sprites_38
+  - first:
+      213: 8868514703532740533
+    second: Paralysis_Sprites_39
+  - first:
+      213: 7924523303009574361
+    second: Paralysis_Sprites_40
+  - first:
+      213: 753273011991708137
+    second: Paralysis_Sprites_41
+  - first:
+      213: -8753858483501110355
+    second: Paralysis_Sprites_42
+  - first:
+      213: -5409452411067139477
+    second: Paralysis_Sprites_43
+  - first:
+      213: 6370178961904242247
+    second: Paralysis_Sprites_44
+  - first:
+      213: 2522815688074331618
+    second: Paralysis_Sprites_45
+  - first:
+      213: 4769291637421955771
+    second: Paralysis_Sprites_46
+  - first:
+      213: -5207973515151512703
+    second: Paralysis_Sprites_47
+  - first:
+      213: 6631704024812338213
+    second: Paralysis_Sprites_48
+  - first:
+      213: -1527573025473973779
+    second: Paralysis_Sprites_49
+  - first:
+      213: 7707455065381137442
+    second: Paralysis_Sprites_50
+  - first:
+      213: -4452987750880571297
+    second: Paralysis_Sprites_51
+  - first:
+      213: 5042973917331721288
+    second: Paralysis_Sprites_52
+  - first:
+      213: -9221819292850760026
+    second: Paralysis_Sprites_53
+  - first:
+      213: 9098934507003905163
+    second: Paralysis_Sprites_54
+  - first:
+      213: 2012322578810126640
+    second: Paralysis_Sprites_55
+  - first:
+      213: 8155057645569600676
+    second: Paralysis_Sprites_56
+  - first:
+      213: 4425650401922528278
+    second: Paralysis_Sprites_57
+  - first:
+      213: 17938465443266470
+    second: Paralysis_Sprites_58
+  - first:
+      213: -3725588299899922441
+    second: Paralysis_Sprites_59
+  - first:
+      213: -5336367715275624232
+    second: Paralysis_Sprites_60
+  - first:
+      213: -8027510534409230046
+    second: Paralysis_Sprites_61
+  - first:
+      213: -6973118200770404466
+    second: Paralysis_Sprites_62
+  - first:
+      213: 5004586126324725929
+    second: Paralysis_Sprites_63
+  - first:
+      213: 3445924073899474855
+    second: Paralysis_Sprites_64
+  - first:
+      213: 1533369926613566891
+    second: Paralysis_Sprites_65
+  - first:
+      213: -873588452916293994
+    second: Paralysis_Sprites_66
+  - first:
+      213: -8616520162766084109
+    second: Paralysis_Sprites_67
+  - first:
+      213: 3604419512996635455
+    second: Paralysis_Sprites_68
+  - first:
+      213: -7581411274597527854
+    second: Paralysis_Sprites_69
+  - first:
+      213: 7644531545654434603
+    second: Paralysis_Sprites_70
+  - first:
+      213: -1122106968476007444
+    second: Paralysis_Sprites_71
+  - first:
+      213: -4892159257478626000
+    second: Paralysis_Sprites_72
+  - first:
+      213: 9119813056732138247
+    second: Paralysis_Sprites_73
+  - first:
+      213: 3223724751436687687
+    second: Paralysis_Sprites_74
+  - first:
+      213: -7805838390780075137
+    second: Paralysis_Sprites_75
+  - first:
+      213: 8810280329811046896
+    second: Paralysis_Sprites_76
+  - first:
+      213: -8109272540133919971
+    second: Paralysis_Sprites_77
+  - first:
+      213: 7513521598580137882
+    second: Paralysis_Sprites_78
+  - first:
+      213: -2722350229236195744
+    second: Paralysis_Sprites_79
+  - first:
+      213: 4088025380445895865
+    second: Paralysis_Sprites_80
+  - first:
+      213: -2084502825384498259
+    second: Paralysis_Sprites_81
+  - first:
+      213: 8539111053462079494
+    second: Paralysis_Sprites_82
+  - first:
+      213: -212572800529564525
+    second: Paralysis_Sprites_83
+  - first:
+      213: 8539517182286947739
+    second: Paralysis_Sprites_84
+  - first:
+      213: -6410453839105537004
+    second: Paralysis_Sprites_85
+  - first:
+      213: 1558157862971464010
+    second: Paralysis_Sprites_86
+  - first:
+      213: 78287598333440729
+    second: Paralysis_Sprites_87
+  - first:
+      213: -5179780997753669527
+    second: Paralysis_Sprites_88
+  - first:
+      213: -12119916364509972
+    second: Paralysis_Sprites_89
+  - first:
+      213: 8592480063820958826
+    second: Paralysis_Sprites_90
+  - first:
+      213: 4510294275298141866
+    second: Paralysis_Sprites_91
+  - first:
+      213: 1918864321297805776
+    second: Paralysis_Sprites_92
+  - first:
+      213: 4516997474595047626
+    second: Paralysis_Sprites_93
+  - first:
+      213: 2282274645678566768
+    second: Paralysis_Sprites_94
+  - first:
+      213: -7213785117237086394
+    second: Paralysis_Sprites_95
+  - first:
+      213: -1280951494049382828
+    second: Paralysis_Sprites_96
+  - first:
+      213: -6481018951988966997
+    second: Paralysis_Sprites_97
+  - first:
+      213: 5264104096803063171
+    second: Paralysis_Sprites_98
+  - first:
+      213: 6348166532041675905
+    second: Paralysis_Sprites_99
+  - first:
+      213: 7150795305683526139
+    second: Paralysis_Sprites_100
+  - first:
+      213: -359144667570540464
+    second: Paralysis_Sprites_101
+  - first:
+      213: 1227665307784024372
+    second: Paralysis_Sprites_102
+  - first:
+      213: -4579336593453122465
+    second: Paralysis_Sprites_103
+  - first:
+      213: 3349763048669967523
+    second: Paralysis_Sprites_104
+  - first:
+      213: -2803735336912437074
+    second: Paralysis_Sprites_105
+  - first:
+      213: -286015954670836926
+    second: Paralysis_Sprites_106
+  - first:
+      213: -2610792315752583511
+    second: Paralysis_Sprites_107
+  - first:
+      213: -2966374523934090456
+    second: Paralysis_Sprites_108
+  - first:
+      213: 6570875232039282464
+    second: Paralysis_Sprites_109
+  - first:
+      213: 8810059903528313172
+    second: Paralysis_Sprites_110
+  - first:
+      213: 420395622779956681
+    second: Paralysis_Sprites_111
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Paralysis_Sprites_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1098.5
+        width: 150
+        height: 84.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff9c35f48c42bfb70800000000000000
+      internalID: 8933774728562461183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralysis_Sprites_1
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 1098.5
+        width: 150
+        height: 84.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc7a577a7ee354d20800000000000000
+      internalID: 3262082669767665613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralysis_Sprites_2
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1098.5
+        width: 150
+        height: 84.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 505fc1b7d11c0fb20800000000000000
+      internalID: 3166242870405166341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralysis_Sprites_3
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 1098.5
+        width: 150
+        height: 84.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47c66395b95ccd6f0800000000000000
+      internalID: -658434174495593356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralysis_Sprites_4
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1098.5
+        width: 150
+        height: 84.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4d2809c568f4f090800000000000000
+      internalID: -8001497521882387125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralysis_Sprites_5
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 1098.5
+        width: 150
+        height: 84.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92480b3e194167600800000000000000
+      internalID: 465582228302234665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralysis_Sprites_6
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 1098.5
+        width: 150
+        height: 84.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be7cdb8f38d7a6b00800000000000000
+      internalID: 822607887715911659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralysis_Sprites_7
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 1098.5
+        width: 150
+        height: 84.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41d74e99f1c593090800000000000000
+      internalID: -8054305167779791596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralysis_Sprites_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1014.5
+        width: 150
+        height: 84.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce6222537c02a9fb0800000000000000
+      internalID: -4640360426089863444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralysis_Sprites_9
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 1014.5
+        width: 150
+        height: 84.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1fe4f2d3d5dc8410800000000000000
+      internalID: 1480793483252133658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralysis_Sprites_10
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1014.5
+        width: 150
+        height: 84.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77745831e9daec150800000000000000
+      internalID: 5894839856718497655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralysis_Sprites_11
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 1014.5
+        width: 150
+        height: 84.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f73a6b15173f4df0800000000000000
+      internalID: -193875695159855114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralysis_Sprites_12
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1014.5
+        width: 150
+        height: 84.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e37dd83a164207be0800000000000000
+      internalID: -1481644275630483650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralysis_Sprites_13
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 1014.5
+        width: 150
+        height: 84.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e81cfb54836fb18f0800000000000000
+      internalID: -568590206383439474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralysis_Sprites_14
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 1014.5
+        width: 150
+        height: 84.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79aad4521840fb1d0800000000000000
+      internalID: -3332940246507738473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralysis_Sprites_15
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 1014.5
+        width: 150
+        height: 84.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91fbb165b37459b60800000000000000
+      internalID: 7752180653761478425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralysis_Sprites_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 930.5
+        width: 150
+        height: 84.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 227011eee1fe73de0800000000000000
+      internalID: -1353350246879394014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralysis_Sprites_17
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 930.5
+        width: 150
+        height: 84.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fa00c478e77d9050800000000000000
+      internalID: 5808930934652668658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralysis_Sprites_18
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 930.5
+        width: 150
+        height: 84.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 945981e24caa63b80800000000000000
+      internalID: -8415351094131518135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralysis_Sprites_19
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 930.5
+        width: 150
+        height: 84.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c48b9e4c679779f0800000000000000
+      internalID: -470741144605850425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralysis_Sprites_20
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 930.5
+        width: 150
+        height: 84.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8eca4d129ed3eec0800000000000000
+      internalID: -3538740163045044593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralysis_Sprites_21
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 930.5
+        width: 150
+        height: 84.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 449020808472a8610800000000000000
+      internalID: 1624153805945964868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralysis_Sprites_22
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 930.5
+        width: 150
+        height: 84.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff1dce0747a84caf0800000000000000
+      internalID: -377024236076871169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralysis_Sprites_23
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 930.5
+        width: 150
+        height: 84.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2431d4b5c21f2d430800000000000000
+      internalID: 3806369807894123330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralysis_Sprites_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 846.5
+        width: 150
+        height: 84.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c06e6f414f572010800000000000000
+      internalID: 1164003762808709320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralysis_Sprites_25
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 846.5
+        width: 150
+        height: 84.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3da5805afcff5a6a0800000000000000
+      internalID: -6438458824964154669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralysis_Sprites_26
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 846.5
+        width: 150
+        height: 84.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bd13bba9b313da00800000000000000
+      internalID: 779988848635747768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralysis_Sprites_27
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 846.5
+        width: 150
+        height: 84.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99d591190f7fccc30800000000000000
+      internalID: 4381149150123220377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralysis_Sprites_28
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 846.5
+        width: 150
+        height: 84.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04bcba994e6aecfe0800000000000000
+      internalID: -1166811752681452736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralysis_Sprites_29
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 846.5
+        width: 150
+        height: 84.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdd913b7cb5e9cb90800000000000000
+      internalID: -7220987929828418085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralysis_Sprites_30
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 846.5
+        width: 150
+        height: 84.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 161e6f3c5d87ae870800000000000000
+      internalID: 8712909288612749665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralysis_Sprites_31
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 846.5
+        width: 150
+        height: 84.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40ef42c9583fdf5b0800000000000000
+      internalID: -5332838628560929276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralysis_Sprites_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 762.5
+        width: 150
+        height: 84.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67235f55f09cf7980800000000000000
+      internalID: -8538885300767346058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralysis_Sprites_33
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 762.5
+        width: 150
+        height: 84.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db60449e8943dec10800000000000000
+      internalID: 2084380033895630525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralysis_Sprites_34
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 762.5
+        width: 150
+        height: 84.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a32e124c14814000800000000000000
+      internalID: 18441130389414822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralysis_Sprites_35
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 762.5
+        width: 150
+        height: 84.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e33012d8265e2d10800000000000000
+      internalID: 2102712809351558112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralysis_Sprites_36
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 762.5
+        width: 150
+        height: 84.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd471253b8a6a03a0800000000000000
+      internalID: -6698424349635808033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralysis_Sprites_37
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 762.5
+        width: 150
+        height: 84.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d481a4ad8468d32a0800000000000000
+      internalID: -6756096218527819699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralysis_Sprites_38
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 762.5
+        width: 150
+        height: 84.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0db1651ae7af25be0800000000000000
+      internalID: -1489853104926614576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralysis_Sprites_39
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 762.5
+        width: 150
+        height: 84.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bfc56da22b431b70800000000000000
+      internalID: 8868514703532740533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralysis_Sprites_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 678.5
+        width: 150
+        height: 84.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ddd03a45ff89fd60800000000000000
+      internalID: 7924523303009574361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralysis_Sprites_41
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 678.5
+        width: 150
+        height: 84.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e187aa30d9247a00800000000000000
+      internalID: 753273011991708137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralysis_Sprites_42
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 678.5
+        width: 150
+        height: 84.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dab60e4d61c048680800000000000000
+      internalID: -8753858483501110355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralysis_Sprites_43
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 678.5
+        width: 150
+        height: 84.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6a76f051b3cde4b0800000000000000
+      internalID: -5409452411067139477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralysis_Sprites_44
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 678.5
+        width: 150
+        height: 84.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74e08f3e30c676850800000000000000
+      internalID: 6370178961904242247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralysis_Sprites_45
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 678.5
+        width: 150
+        height: 84.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e504797087d20320800000000000000
+      internalID: 2522815688074331618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralysis_Sprites_46
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 678.5
+        width: 150
+        height: 84.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbad6c6b97def2240800000000000000
+      internalID: 4769291637421955771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralysis_Sprites_47
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 678.5
+        width: 150
+        height: 84.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18b60c55eaf89b7b0800000000000000
+      internalID: -5207973515151512703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralysis_Sprites_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 594.5
+        width: 150
+        height: 84.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52cb77e9cab880c50800000000000000
+      internalID: 6631704024812338213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralysis_Sprites_49
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 594.5
+        width: 150
+        height: 84.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de1b7204d68fccae0800000000000000
+      internalID: -1527573025473973779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralysis_Sprites_50
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 594.5
+        width: 150
+        height: 84.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22ce35ecb8166fa60800000000000000
+      internalID: 7707455065381137442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralysis_Sprites_51
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 594.5
+        width: 150
+        height: 84.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f501997cb3fc332c0800000000000000
+      internalID: -4452987750880571297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralysis_Sprites_52
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 594.5
+        width: 150
+        height: 84.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84c0e1a1f0e3cf540800000000000000
+      internalID: 5042973917331721288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralysis_Sprites_53
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 594.5
+        width: 150
+        height: 84.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a659c26634850080800000000000000
+      internalID: -9221819292850760026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralysis_Sprites_54
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 594.5
+        width: 150
+        height: 84.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b840384d9b8e54e70800000000000000
+      internalID: 9098934507003905163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralysis_Sprites_55
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 594.5
+        width: 150
+        height: 84.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 031c97349b43deb10800000000000000
+      internalID: 2012322578810126640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralysis_Sprites_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 510.5
+        width: 150
+        height: 84.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ac6207a8b59c2170800000000000000
+      internalID: 8155057645569600676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralysis_Sprites_57
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 510.5
+        width: 150
+        height: 84.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61438aaa7911b6d30800000000000000
+      internalID: 4425650401922528278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralysis_Sprites_58
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 510.5
+        width: 150
+        height: 84.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6afbf8470fabf3000800000000000000
+      internalID: 17938465443266470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralysis_Sprites_59
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 510.5
+        width: 150
+        height: 84.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f71d152e2d0c4cc0800000000000000
+      internalID: -3725588299899922441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralysis_Sprites_60
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 510.5
+        width: 150
+        height: 84.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d0322416d961f5b0800000000000000
+      internalID: -5336367715275624232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralysis_Sprites_61
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 510.5
+        width: 150
+        height: 84.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 229e4d553bd889090800000000000000
+      internalID: -8027510534409230046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralysis_Sprites_62
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 510.5
+        width: 150
+        height: 84.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8fd44a01f18a3f90800000000000000
+      internalID: -6973118200770404466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralysis_Sprites_63
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 510.5
+        width: 150
+        height: 84.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a8fe63019cd37540800000000000000
+      internalID: 5004586126324725929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralysis_Sprites_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 426.5
+        width: 150
+        height: 84.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7afbebb10b162df20800000000000000
+      internalID: 3445924073899474855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralysis_Sprites_65
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 426.5
+        width: 150
+        height: 84.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba58119f2df974510800000000000000
+      internalID: 1533369926613566891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralysis_Sprites_66
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 426.5
+        width: 150
+        height: 84.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69e8a083ee360e3f0800000000000000
+      internalID: -873588452916293994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralysis_Sprites_67
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 426.5
+        width: 150
+        height: 84.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f726527098fb6880800000000000000
+      internalID: -8616520162766084109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralysis_Sprites_68
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 426.5
+        width: 150
+        height: 84.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f33a6a53378750230800000000000000
+      internalID: 3604419512996635455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralysis_Sprites_69
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 426.5
+        width: 150
+        height: 84.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2de09712d9a69c690800000000000000
+      internalID: -7581411274597527854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralysis_Sprites_70
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 426.5
+        width: 150
+        height: 84.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2b100530f4d61a60800000000000000
+      internalID: 7644531545654434603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralysis_Sprites_71
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 426.5
+        width: 150
+        height: 84.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce34ff748a97d60f0800000000000000
+      internalID: -1122106968476007444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralysis_Sprites_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 342.5
+        width: 150
+        height: 84.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0350959331f8b1cb0800000000000000
+      internalID: -4892159257478626000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralysis_Sprites_73
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 342.5
+        width: 150
+        height: 84.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70b0d7008a5109e70800000000000000
+      internalID: 9119813056732138247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralysis_Sprites_74
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 342.5
+        width: 150
+        height: 84.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 749a407d498fcbc20800000000000000
+      internalID: 3223724751436687687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralysis_Sprites_75
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 342.5
+        width: 150
+        height: 84.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f73627737571ca390800000000000000
+      internalID: -7805838390780075137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralysis_Sprites_76
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 342.5
+        width: 150
+        height: 84.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f1bff5f747644a70800000000000000
+      internalID: 8810280329811046896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralysis_Sprites_77
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 342.5
+        width: 150
+        height: 84.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d13fc7ae693167f80800000000000000
+      internalID: -8109272540133919971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralysis_Sprites_78
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 342.5
+        width: 150
+        height: 84.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9f1897e514654860800000000000000
+      internalID: 7513521598580137882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralysis_Sprites_79
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 342.5
+        width: 150
+        height: 84.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06e5c20e3e4483ad0800000000000000
+      internalID: -2722350229236195744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralysis_Sprites_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 258.5
+        width: 150
+        height: 84.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bc324a9c659bb830800000000000000
+      internalID: 4088025380445895865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralysis_Sprites_81
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 258.5
+        width: 150
+        height: 84.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daba8a779bb5213e0800000000000000
+      internalID: -2084502825384498259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralysis_Sprites_82
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 258.5
+        width: 150
+        height: 84.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 608083fc244018670800000000000000
+      internalID: 8539111053462079494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralysis_Sprites_83
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 258.5
+        width: 150
+        height: 84.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39c76870a2acc0df0800000000000000
+      internalID: -212572800529564525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralysis_Sprites_84
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 258.5
+        width: 150
+        height: 84.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b95ee8b02a5728670800000000000000
+      internalID: 8539517182286947739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralysis_Sprites_85
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 258.5
+        width: 150
+        height: 84.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41c4317823e7907a0800000000000000
+      internalID: -6410453839105537004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralysis_Sprites_86
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 258.5
+        width: 150
+        height: 84.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4955662250bf9510800000000000000
+      internalID: 1558157862971464010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralysis_Sprites_87
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 258.5
+        width: 150
+        height: 84.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d2bbf8e722261100800000000000000
+      internalID: 78287598333440729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralysis_Sprites_88
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 174.5
+        width: 150
+        height: 84.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 968f29e40a8bd18b0800000000000000
+      internalID: -5179780997753669527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralysis_Sprites_89
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 174.5
+        width: 150
+        height: 84.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cecc2621001f4dff0800000000000000
+      internalID: -12119916364509972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralysis_Sprites_90
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 174.5
+        width: 150
+        height: 84.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6c8ca7d71f9e3770800000000000000
+      internalID: 8592480063820958826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralysis_Sprites_91
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 174.5
+        width: 150
+        height: 84.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa6af9f2fb8c79e30800000000000000
+      internalID: 4510294275298141866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralysis_Sprites_92
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 174.5
+        width: 150
+        height: 84.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d170230fec21aa10800000000000000
+      internalID: 1918864321297805776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralysis_Sprites_93
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 174.5
+        width: 150
+        height: 84.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac8039465499fae30800000000000000
+      internalID: 4516997474595047626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralysis_Sprites_94
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 174.5
+        width: 150
+        height: 84.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07d2d8fb2b44caf10800000000000000
+      internalID: 2282274645678566768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralysis_Sprites_95
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 174.5
+        width: 150
+        height: 84.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6477519f7ac73eb90800000000000000
+      internalID: -7213785117237086394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralysis_Sprites_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 90.5
+        width: 150
+        height: 84.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45e3ea62765293ee0800000000000000
+      internalID: -1280951494049382828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralysis_Sprites_97
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 90.5
+        width: 150
+        height: 84.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba98f10e99bce06a0800000000000000
+      internalID: -6481018951988966997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralysis_Sprites_98
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 90.5
+        width: 150
+        height: 84.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38500ae19cadd0940800000000000000
+      internalID: 5264104096803063171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralysis_Sprites_99
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 90.5
+        width: 150
+        height: 84.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1841e5da3d7391850800000000000000
+      internalID: 6348166532041675905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralysis_Sprites_100
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 90.5
+        width: 150
+        height: 84.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf12cc8a17abc3360800000000000000
+      internalID: 7150795305683526139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralysis_Sprites_101
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 90.5
+        width: 150
+        height: 84.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0507b72e3df040bf0800000000000000
+      internalID: -359144667570540464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralysis_Sprites_102
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 90.5
+        width: 150
+        height: 84.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 431998dc71b890110800000000000000
+      internalID: 1227665307784024372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralysis_Sprites_103
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 90.5
+        width: 150
+        height: 84.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5c774071ade270c0800000000000000
+      internalID: -4579336593453122465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralysis_Sprites_104
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6.5
+        width: 150
+        height: 84.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a4f3b5bebfbc7e20800000000000000
+      internalID: 3349763048669967523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralysis_Sprites_105
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 6.5
+        width: 150
+        height: 84.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea0cf1fd0912719d0800000000000000
+      internalID: -2803735336912437074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralysis_Sprites_106
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 6.5
+        width: 150
+        height: 84.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24320cd210ed70cf0800000000000000
+      internalID: -286015954670836926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralysis_Sprites_107
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 6.5
+        width: 150
+        height: 84.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ae6f3da83a94cbd0800000000000000
+      internalID: -2610792315752583511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralysis_Sprites_108
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 6.5
+        width: 150
+        height: 84.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82bd326461255d6d0800000000000000
+      internalID: -2966374523934090456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralysis_Sprites_109
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 6.5
+        width: 150
+        height: 84.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0272d15a530703b50800000000000000
+      internalID: 6570875232039282464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralysis_Sprites_110
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 6.5
+        width: 150
+        height: 84.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 451a7b7fdce934a70800000000000000
+      internalID: 8810059903528313172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paralysis_Sprites_111
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 6.5
+        width: 150
+        height: 84.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cdade0779b85d500800000000000000
+      internalID: 420395622779956681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 715c018c11b5bd145848ea8308d9ed8b
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

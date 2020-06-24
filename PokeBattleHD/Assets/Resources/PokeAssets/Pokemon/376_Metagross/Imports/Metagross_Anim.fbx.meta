@@ -1,0 +1,179 @@
+fileFormatVersion: 2
+guid: 70fa1f27bd05fe6458cfdd12046c96fa
+ModelImporter:
+  serializedVersion: 19300
+  internalIDToNameTable:
+  - first:
+      74: -452956547142011181
+    second: Armature|Earthquake
+  - first:
+      74: 5868384074028025288
+    second: Armature|Earthquake.001
+  - first:
+      74: -6323313499239116583
+    second: Armature|Eyecandy
+  - first:
+      74: -2755531118510053381
+    second: Armature|Flying
+  - first:
+      74: 9149661223541978141
+    second: Armature|Hurt
+  - first:
+      74: -8945691123924629249
+    second: Armature|Idle
+  - first:
+      74: 7788626157882270527
+    second: Armature|Special Move
+  - first:
+      74: 7096347502900714094
+    second: Armature|Faint
+  - first:
+      74: -3100369314251171874
+    second: Idle
+  - first:
+      74: -7954771676402312860
+    second: Armature|AngerAfterHit
+  - first:
+      74: 8017390324079358001
+    second: Hurt
+  - first:
+      74: -6480320855118108071
+    second: Hurt.001
+  - first:
+      74: 2028508251444844165
+    second: Hurt.002
+  - first:
+      74: -224503666387645414
+    second: Hurt.003
+  - first:
+      74: 8889276044845178257
+    second: Hurt.004
+  - first:
+      74: -815616578347529369
+    second: Armature|HitBack
+  - first:
+      74: -5255174436903761383
+    second: Armature|HitDown
+  - first:
+      74: 8054887008048554391
+    second: Armature|HitDown.001
+  - first:
+      74: 4858115688877290911
+    second: Armature|HitRight
+  - first:
+      74: 5264223822670338124
+    second: Hurt.005
+  - first:
+      74: -5531398745942721578
+    second: Armature|HitLeft
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material__102.002
+    second: {fileID: 2100000, guid: ab1cf4ce7753563428147fff510b002c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material__103.002
+    second: {fileID: 2100000, guid: b7e33117ce6ccec4c96fd2aa5e1a69a0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material__104.002
+    second: {fileID: 2100000, guid: 690eae8b10acdd04baaafed23b3944c6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material__105.002
+    second: {fileID: 2100000, guid: 0211c8dea5e5a3d4fb4a584394a4af55, type: 2}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

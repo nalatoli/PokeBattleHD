@@ -1,0 +1,189 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &8532549002093852036
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5481463267167066295}
+  - component: {fileID: 7708656596584262349}
+  - component: {fileID: -946986978847584948}
+  - component: {fileID: 1206584916372575822}
+  - component: {fileID: 7267432091534578978}
+  - component: {fileID: 4029163768255498783}
+  - component: {fileID: 314700824272222900}
+  m_Layer: 9
+  m_Name: Dragon Claw
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5481463267167066295
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8532549002093852036}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7708656596584262349
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8532549002093852036}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9e60418861264b1479b2502110395ff9, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  name: Dragon Claw
+  type: {fileID: 11400000, guid: a5a5d9492bb9bcb4eb326427bfb5eefa, type: 2}
+  accuracy: 1
+  maxPp: 15
+  Priority: 0
+  description: The user slashes the target with huge sharp claws.
+  effectsDescriptions:
+  - identifier: Type
+    description: Dragon
+    useCustomColor: 1
+    descriptionColor: {r: 0.44554448, g: 0.3254717, b: 1, a: 0}
+    useSubtext: 0
+    subtext: 
+    subtextColor: {r: 0, g: 0, b: 0, a: 0}
+    useToolTip: 0
+    toolTipDescription: 
+  - identifier: Power
+    description: 80
+    useCustomColor: 0
+    descriptionColor: {r: 0, g: 0, b: 0, a: 0}
+    useSubtext: 0
+    subtext: x2
+    subtextColor: {r: 0.96420634, g: 1, b: 0, a: 0}
+    useToolTip: 0
+    toolTipDescription: 
+  - identifier: Accuracy
+    description: 100%
+    useCustomColor: 0
+    descriptionColor: {r: 0, g: 0, b: 0, a: 0}
+    useSubtext: 0
+    subtext: 
+    subtextColor: {r: 0, g: 0, b: 0, a: 0}
+    useToolTip: 0
+    toolTipDescription: 
+--- !u!114 &-946986978847584948
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8532549002093852036}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 638d7ff7e4fe476428c2d7af285cae05, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  timing:
+    type: 0
+    delay: 1
+    eventNumber: 1
+    offset: 0
+--- !u!114 &1206584916372575822
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8532549002093852036}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 11dd758f935e1f241b05e035b05d74f4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  timing:
+    type: 0
+    delay: 1
+    eventNumber: 1
+    offset: 0
+  useCustomAnimation: 0
+  cameraAnimation: {fileID: 0}
+--- !u!114 &7267432091534578978
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8532549002093852036}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f6b9557040141ae4ebd1fd69430671a7, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  timing:
+    type: 2
+    delay: 1
+    eventNumber: 1
+    offset: -0.1
+  useCustomAnimation: 0
+  cameraAnimation: {fileID: 0}
+--- !u!114 &4029163768255498783
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8532549002093852036}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2291eb44480c88540a5639a11f58f1a2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  timing:
+    type: 0
+    delay: 1
+    eventNumber: 1
+    offset: 0
+  moveObject: {fileID: 4255353990277535297, guid: e0c63655a95476f40996753f18503ff4,
+    type: 3}
+  objectLife: 2
+  launch: 0
+  launchSpeed: 1
+  launchDelay: 0
+  spawnAt: 0
+  spawnParent: 3
+--- !u!114 &314700824272222900
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8532549002093852036}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2291eb44480c88540a5639a11f58f1a2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  timing:
+    type: 2
+    delay: 1
+    eventNumber: 1
+    offset: 0
+  moveObject: {fileID: 829415228480438395, guid: 77453961189e9bf4db2f1c32cec965f8,
+    type: 3}
+  objectLife: 2
+  launch: 0
+  launchSpeed: 1
+  launchDelay: 0
+  spawnAt: 1
+  spawnParent: 0

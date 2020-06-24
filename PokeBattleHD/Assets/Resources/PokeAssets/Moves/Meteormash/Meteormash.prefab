@@ -1,0 +1,193 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &8532549002093852036
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5481463267167066295}
+  - component: {fileID: 7708656596584262349}
+  - component: {fileID: 6976539106219866042}
+  - component: {fileID: -7495262453571951958}
+  - component: {fileID: -3517530733004762636}
+  - component: {fileID: -4348850359278478063}
+  - component: {fileID: 445614491409864147}
+  m_Layer: 9
+  m_Name: Meteormash
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5481463267167066295
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8532549002093852036}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7708656596584262349
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8532549002093852036}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9e60418861264b1479b2502110395ff9, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  name: Meteor Mash
+  type: {fileID: 11400000, guid: ac0fb21a31429c2429c09d54a5eb3014, type: 2}
+  accuracy: 0.9
+  maxPp: 10
+  Priority: 0
+  description: The target is hit with a hard punch fired like a meteor.
+  effectsDescriptions:
+  - identifier: Type
+    description: Steel
+    useCustomColor: 1
+    descriptionColor: {r: 0.6037736, g: 0.6037736, b: 0.6037736, a: 0}
+    useSubtext: 0
+    subtext: 
+    subtextColor: {r: 0, g: 0, b: 0, a: 0}
+    useToolTip: 0
+    toolTipDescription: 
+  - identifier: Power
+    description: 90
+    useCustomColor: 0
+    descriptionColor: {r: 0, g: 0, b: 0, a: 0}
+    useSubtext: 0
+    subtext: 
+    subtextColor: {r: 0, g: 0, b: 0, a: 0}
+    useToolTip: 0
+    toolTipDescription: 
+  - identifier: Accuracy
+    description: 90%
+    useCustomColor: 0
+    descriptionColor: {r: 0, g: 0, b: 0, a: 0}
+    useSubtext: 0
+    subtext: 
+    subtextColor: {r: 0, g: 0, b: 0, a: 0}
+    useToolTip: 0
+    toolTipDescription: 
+  - identifier: Attack Raise
+    description: 20%
+    useCustomColor: 1
+    descriptionColor: {r: 1, g: 0.702631, b: 0, a: 0}
+    useSubtext: 0
+    subtext: 
+    subtextColor: {r: 0, g: 0, b: 0, a: 0}
+    useToolTip: 1
+    toolTipDescription: The user may have it's attack increased after using this
+      move.
+--- !u!114 &6976539106219866042
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8532549002093852036}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 638d7ff7e4fe476428c2d7af285cae05, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  timing:
+    type: 0
+    delay: 1
+    eventNumber: 1
+    offset: 0
+--- !u!114 &-7495262453571951958
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8532549002093852036}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 11dd758f935e1f241b05e035b05d74f4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  timing:
+    type: 0
+    delay: 1
+    eventNumber: 1
+    offset: 0
+  useCustomAnimation: 0
+  cameraAnimation: {fileID: 11400000, guid: 6e979f71f50157d4db68963e7ad78fb5, type: 2}
+--- !u!114 &-3517530733004762636
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8532549002093852036}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f6b9557040141ae4ebd1fd69430671a7, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  timing:
+    type: 2
+    delay: 1
+    eventNumber: 1
+    offset: -0.1
+  useCustomAnimation: 0
+  cameraAnimation: {fileID: 11400000, guid: 0d8dac14c02e917458706effc5df9e97, type: 2}
+--- !u!114 &-4348850359278478063
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8532549002093852036}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2291eb44480c88540a5639a11f58f1a2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  timing:
+    type: 0
+    delay: 1
+    eventNumber: 1
+    offset: 0
+  moveObject: {fileID: -1098029228545094321, guid: 12f63a348b9c5d247a285700b9ef6b42,
+    type: 3}
+  objectLife: 4
+  spawnAt: 0
+  spawnParent: 3
+--- !u!114 &445614491409864147
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8532549002093852036}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2291eb44480c88540a5639a11f58f1a2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  timing:
+    type: 2
+    delay: 1
+    eventNumber: 1
+    offset: 0
+  moveObject: {fileID: -1098029228545094321, guid: 547c35d077ac018428e3aff95eff8911,
+    type: 3}
+  objectLife: 2
+  spawnAt: 1
+  spawnParent: 0

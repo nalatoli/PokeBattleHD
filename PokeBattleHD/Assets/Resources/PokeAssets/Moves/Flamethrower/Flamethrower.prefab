@@ -1,0 +1,224 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &8532549002093852036
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5481463267167066295}
+  - component: {fileID: 7708656596584262349}
+  - component: {fileID: -946986978847584948}
+  - component: {fileID: -2769764796220321965}
+  - component: {fileID: -7004320086614712988}
+  - component: {fileID: -7760522807169487146}
+  - component: {fileID: 7062573823119357666}
+  - component: {fileID: 5480270230021490778}
+  m_Layer: 9
+  m_Name: Flamethrower
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5481463267167066295
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8532549002093852036}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7708656596584262349
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8532549002093852036}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9e60418861264b1479b2502110395ff9, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  name: Flamethrower
+  type: {fileID: 11400000, guid: 1419d9411c82ca64ca18432bfba0516d, type: 2}
+  accuracy: 1
+  maxPp: 15
+  Priority: 0
+  description: The target is scorched with an intense blast of fire.
+  effectsDescriptions:
+  - identifier: Type
+    description: Fire
+    useCustomColor: 1
+    descriptionColor: {r: 1, g: 0.4116228, b: 0, a: 0}
+    useSubtext: 0
+    subtext: 
+    subtextColor: {r: 0, g: 0, b: 0, a: 0}
+    useToolTip: 0
+    toolTipDescription: 
+  - identifier: Power
+    description: 90
+    useCustomColor: 0
+    descriptionColor: {r: 0, g: 0, b: 0, a: 0}
+    useSubtext: 0
+    subtext: x2
+    subtextColor: {r: 0.96420634, g: 1, b: 0, a: 0}
+    useToolTip: 0
+    toolTipDescription: 
+  - identifier: Accuracy
+    description: 100%
+    useCustomColor: 0
+    descriptionColor: {r: 0, g: 0, b: 0, a: 0}
+    useSubtext: 0
+    subtext: 
+    subtextColor: {r: 0, g: 0, b: 0, a: 0}
+    useToolTip: 0
+    toolTipDescription: 
+  - identifier: Aliment
+    description: Burn
+    useCustomColor: 1
+    descriptionColor: {r: 1, g: 0.47008726, b: 0, a: 0}
+    useSubtext: 1
+    subtext: 30%
+    subtextColor: {r: 1, g: 0.8917553, b: 0.7877358, a: 0}
+    useToolTip: 0
+    toolTipDescription: 
+--- !u!114 &-946986978847584948
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8532549002093852036}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 638d7ff7e4fe476428c2d7af285cae05, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  timing:
+    type: 0
+    delay: 1
+    eventNumber: 1
+    offset: 0
+--- !u!114 &-2769764796220321965
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8532549002093852036}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 11dd758f935e1f241b05e035b05d74f4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  timing:
+    type: 0
+    delay: 1
+    eventNumber: 1
+    offset: 0
+  useCustomAnimation: 1
+  cameraAnimation: {fileID: 11400000, guid: c2e5408825914c24184c670cdd974471, type: 2}
+--- !u!114 &-7004320086614712988
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8532549002093852036}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 11dd758f935e1f241b05e035b05d74f4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  timing:
+    type: 2
+    delay: 1
+    eventNumber: 1
+    offset: 0
+  useCustomAnimation: 1
+  cameraAnimation: {fileID: 11400000, guid: 037dc179f69b9ed42badfd9787cebd0a, type: 2}
+--- !u!114 &-7760522807169487146
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8532549002093852036}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2291eb44480c88540a5639a11f58f1a2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  timing:
+    type: 0
+    delay: 1
+    eventNumber: 1
+    offset: 0
+  moveObject: {fileID: 4668482042703829025, guid: 71a51905e48e88b4b8d6c2abdc0adb6a,
+    type: 3}
+  objectLife: 3
+  launch: 0
+  launchSpeed: 1
+  launchDelay: 0
+  spawnAt: 0
+  spawnParent: 1
+--- !u!114 &7062573823119357666
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8532549002093852036}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2291eb44480c88540a5639a11f58f1a2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  timing:
+    type: 2
+    delay: 1
+    eventNumber: 1
+    offset: 0
+  moveObject: {fileID: 7401950032188916658, guid: 0b7413f281693664f9edb623f2ac8d37,
+    type: 3}
+  objectLife: 3.5
+  launch: 0
+  launchSpeed: 1
+  launchDelay: 0
+  spawnAt: 0
+  spawnParent: 1
+--- !u!114 &5480270230021490778
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8532549002093852036}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2291eb44480c88540a5639a11f58f1a2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  timing:
+    type: 2
+    delay: 1
+    eventNumber: 1
+    offset: 0
+  moveObject: {fileID: 5037211878910240371, guid: 8956023a7d547b642bc1692baee13cc4,
+    type: 3}
+  objectLife: 3.5
+  launch: 1
+  launchSpeed: 10
+  launchDelay: 0
+  spawnAt: 0
+  spawnParent: 1

@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 46011f580d00d45428a2c5265b85daa7, type: 3}
+  m_Name: Red_State1
+  m_EditorClassIdentifier: 
+  pokemon: {fileID: 677963770453279619, guid: e02e7cf1d8b973f48934d1906237a03e, type: 3}
+  state:
+    nickname: 
+    gender: 2
+    level: 100
+    hP: 1
+    xP: 0
+    statusEffects: []
+    move1: {fileID: 1815395560409539012, guid: be5f6401309a35046bbd6ebffd5c714f, type: 3}
+    pP1: 1
+    move2: {fileID: 7708656596584262349, guid: c02f2eeda0fade54ab2ace50313c4cd8, type: 3}
+    pP2: 1
+    move3: {fileID: 7708656596584262349, guid: 1a078d75c7833ab40b7033c7d7c33380, type: 3}
+    pP3: 1
+    move4: {fileID: 7708656596584262349, guid: 54742cc3c1299cd47902c68b2b562409, type: 3}
+    pP4: 1
+    ball: {fileID: 3588986060655290647, guid: 4af44ab8676851f4f8dfffe6928439eb, type: 3}

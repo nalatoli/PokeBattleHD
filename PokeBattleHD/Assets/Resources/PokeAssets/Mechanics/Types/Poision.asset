@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 693eb57ec8cd1e94ab4127200a950ae8, type: 3}
+  m_Name: Poision
+  m_EditorClassIdentifier: 
+  spritesheet:
+  - {fileID: 2355468203168337794, guid: a97695c5fd616a447a27e90bc50710db, type: 3}
+  - {fileID: -4303137519547661238, guid: a97695c5fd616a447a27e90bc50710db, type: 3}
+  - {fileID: 2316872477764816406, guid: a97695c5fd616a447a27e90bc50710db, type: 3}
+  - {fileID: 2685616014890440689, guid: a97695c5fd616a447a27e90bc50710db, type: 3}
+  - {fileID: 8979558091195686805, guid: a97695c5fd616a447a27e90bc50710db, type: 3}
+  - {fileID: 4973423519272749094, guid: a97695c5fd616a447a27e90bc50710db, type: 3}
+  - {fileID: -4253895830572809444, guid: a97695c5fd616a447a27e90bc50710db, type: 3}
+  - {fileID: -4574396244145708680, guid: a97695c5fd616a447a27e90bc50710db, type: 3}
+  - {fileID: -3005735076634649849, guid: a97695c5fd616a447a27e90bc50710db, type: 3}
+  - {fileID: 1723089965153994762, guid: a97695c5fd616a447a27e90bc50710db, type: 3}
+  - {fileID: -7269384647910230226, guid: a97695c5fd616a447a27e90bc50710db, type: 3}
+  - {fileID: -316145783914446794, guid: a97695c5fd616a447a27e90bc50710db, type: 3}
+  - {fileID: -4322152137905457187, guid: a97695c5fd616a447a27e90bc50710db, type: 3}
+  - {fileID: -5281839014180596070, guid: a97695c5fd616a447a27e90bc50710db, type: 3}
+  - {fileID: 2977649071109206612, guid: a97695c5fd616a447a27e90bc50710db, type: 3}
+  - {fileID: -4169723734873297278, guid: a97695c5fd616a447a27e90bc50710db, type: 3}
+  - {fileID: 1387827391744707274, guid: a97695c5fd616a447a27e90bc50710db, type: 3}
+  - {fileID: 3858464993966044904, guid: a97695c5fd616a447a27e90bc50710db, type: 3}
+  spriteSheetSpeed: 0.3
+  textColorTheme:
+    topLeft: {r: 0.69814396, g: 0, b: 1, a: 1}
+    topRight: {r: 0.764151, g: 0.050462782, b: 0.71150184, a: 1}
+    bottomLeft: {r: 1, g: 0.6226415, b: 0.93332523, a: 1}
+    bottomRight: {r: 0.92702025, g: 0.8509804, b: 1, a: 1}
+  borderColor: {r: 0.49375078, g: 0, b: 0.5188679, a: 1}
+  strongAgainst:
+  - {fileID: 11400000, guid: 89028c8ddc5dbfe4ab4e818718fa3f7f, type: 2}
+  - {fileID: 11400000, guid: 8cfbfcfab4002a24c8871abae8b3ff3a, type: 2}
+  weakAgainst:
+  - {fileID: 11400000}
+  - {fileID: 11400000, guid: 73f2a77efdc8361469faab0b3b7bd51f, type: 2}
+  - {fileID: 11400000, guid: 624c4f79831fbba438804981ab13d8c0, type: 2}
+  - {fileID: 11400000, guid: 4880f1b8c5db5424782de32762140b02, type: 2}
+  noEffectAgainst:
+  - {fileID: 11400000, guid: ac0fb21a31429c2429c09d54a5eb3014, type: 2}
